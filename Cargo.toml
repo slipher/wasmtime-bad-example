@@ -1,0 +1,8 @@
+[package]
+name = "wasmtime-bad-example"
+version = "0.0.0"
+[workspace]
+
+[dependencies]
+wasmtime = "0.9.0"
+wasmtime-runtime = "0.9.0"
